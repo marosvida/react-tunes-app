@@ -23,9 +23,9 @@ function App() {
 
       <main className='content'>
         <Switch>
-            <Route path='/react-tunes-app/' component={Homepage} exact/>
-          <Route path='/react-tunes-app/tunes' component={Tunes} />
-          <Route path='/react-tunes-app/about' component={About} />
+            <Route path='/' component={Homepage} exact/>
+          <Route path='/tunes' component={Tunes} />
+          <Route path='/about' component={About} />
         </Switch>
       </main>
 
