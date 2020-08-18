@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-tunes-app/static/css/main.6701eb68.chunk.css",
-    "main.js": "/react-tunes-app/static/js/main.4d432312.chunk.js",
-    "main.js.map": "/react-tunes-app/static/js/main.4d432312.chunk.js.map",
+    "main.js": "/react-tunes-app/static/js/main.eb116939.chunk.js",
+    "main.js.map": "/react-tunes-app/static/js/main.eb116939.chunk.js.map",
     "runtime-main.js": "/react-tunes-app/static/js/runtime-main.e02a0fa8.js",
     "runtime-main.js.map": "/react-tunes-app/static/js/runtime-main.e02a0fa8.js.map",
     "static/js/2.8bc63453.chunk.js": "/react-tunes-app/static/js/2.8bc63453.chunk.js",
     "static/js/2.8bc63453.chunk.js.map": "/react-tunes-app/static/js/2.8bc63453.chunk.js.map",
     "index.html": "/react-tunes-app/index.html",
-    "precache-manifest.bdafac8df409586c48111328f1d3039c.js": "/react-tunes-app/precache-manifest.bdafac8df409586c48111328f1d3039c.js",
+    "precache-manifest.5cbe2162075eb30b996e0d9330bc4303.js": "/react-tunes-app/precache-manifest.5cbe2162075eb30b996e0d9330bc4303.js",
     "service-worker.js": "/react-tunes-app/service-worker.js",
     "static/css/main.6701eb68.chunk.css.map": "/react-tunes-app/static/css/main.6701eb68.chunk.css.map",
     "static/js/2.8bc63453.chunk.js.LICENSE.txt": "/react-tunes-app/static/js/2.8bc63453.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e02a0fa8.js",
     "static/js/2.8bc63453.chunk.js",
     "static/css/main.6701eb68.chunk.css",
-    "static/js/main.4d432312.chunk.js"
+    "static/js/main.eb116939.chunk.js"
   ]
 }
